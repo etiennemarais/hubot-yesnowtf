@@ -1,5 +1,9 @@
 [
     "Can (I|We) .*\\?",
     "Will we .*\\?",
-    "Should (I|We) .*\\?"
+    "Should (I|We) .*\\?",
+    "Is (this|it) .*\\?",
+    "Are (We|our|you) .*\\?",
+    "Do (you|they|I) .*\\?",
+    "Does (your|my|his|her) .*\\?"
 ]

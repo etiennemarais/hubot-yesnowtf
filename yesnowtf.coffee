@@ -2,13 +2,13 @@
 #   Wraps the yesnowtf api and returns the response as a slack message.
 #
 # Dependencies:
-#   None
+#   "coffee-script": "^1.9.0"
 #
 # Configuration:
 #   None
 #
 # Commands:
-#   ask a question - gives very scientific answer
+#   Ask a question - gives very scientific answer
 #
 # Notes
 #   See questions array for list of triggers.

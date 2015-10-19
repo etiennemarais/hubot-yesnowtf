@@ -1,6 +1,6 @@
 {
     "name": "hubot-yesnowtf",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Hubot script that displays yesno.wtf response",
     "main": "yesnowtf.coffee",
     "author": {
