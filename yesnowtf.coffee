@@ -14,7 +14,7 @@
 #   See questions array for list of triggers.
 #
 # Author:
-#   Etienne Marais <etienne.marais@olx.com>
+#   Etienne Marais <hello@etiennemarais.co.za>
 
 triggers = require './data/triggers.json'
 regex = new RegExp triggers.join('|'), 'gi'
